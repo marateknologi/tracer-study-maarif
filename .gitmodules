@@ -1,0 +1,3 @@
+[submodule "application/application/vendor/codeigniter4/framework"]
+	path = application/application/vendor/codeigniter4/framework
+	url = git@github.com:codeigniter4/framework.git

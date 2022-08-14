@@ -1,0 +1,17 @@
+{
+    "name": "mh4nx7net/ci-tracer-study",
+    "autoload": {
+        "psr-4": {
+            "Mh4nx7net\\CiTracerStudy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mh4nx7net",
+            "email": "androxoss@hotmail.com"
+        }
+    ],
+    "require": {
+        "codeigniter4/framework": "^4.2"
+    }
+}
